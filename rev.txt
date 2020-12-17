@@ -1,0 +1,8 @@
+Revision of gits
+
+
+1:git init( means initialize)
+2:git status (means check what happen)
+3:git add (two types of adding {1:adding specia things i.e git add index.html} 
+                               [2:adding whole Documents  i.e git add .])
+git commit(means commiting )
